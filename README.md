@@ -8,4 +8,4 @@ I’m a civil, subsea & pipeline engineer, passionate about offshore oil & gas d
 
 
 
-<a href="https://www.linkedin.com/in/nuhu-james-akwe-b-eng-msc-r-engr-mnse-68026a293/">LinkedIn</a>.   <a href="https://github.com/AkweNuhu/Web-Portfolio">Web Portforlio</a>
+<a href="https://www.linkedin.com/in/nuhu-james-akwe-b-eng-msc-r-engr-mnse-68026a293/">LinkedIn</a>.   <a href="https://akwenuhu.github.io/Web-Portfolio/">Web Portforlio</a>
